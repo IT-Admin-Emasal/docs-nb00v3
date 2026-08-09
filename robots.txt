@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-t73a3c.kujang138.space/sitemap.xml
